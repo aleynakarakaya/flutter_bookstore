@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "817854826802",
+    "project_id": "flutter-kitaplik",
+    "storage_bucket": "flutter-kitaplik.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817854826802:android:ccaf8b92f75bbd1e68af2b",
+        "android_client_info": {
+          "package_name": "com.example.flutter_kitaplik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "817854826802-r60apdl87c7krqeidnav2iv03v97m6gb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCORRb7MLQOo9luVnXeA8pcrXu1tnEWlUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "817854826802-r60apdl87c7krqeidnav2iv03v97m6gb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
